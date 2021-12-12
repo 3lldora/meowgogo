@@ -1,0 +1,24 @@
+[
+  {
+        "id":"price_1K5f8hAuc8Iz7jQHNJ1Bs6kZ",     
+      "title": "Fur Donut Cuddler Cat & Dog Bed",
+      "description":"Help your furry friend get the restful sleep she deserves with this Luxury Shag Donut Self-Heating pet bed.",
+      "image":"/images/product_1.jpg",
+      "price":20.00
+  },
+  {
+      "id":"price_1K5fADAuc8Iz7jQHYaxPPIeU",      
+      "title": "Outdoor Unheated Kitty House",
+      "description":" Your feline friend will love hiding out in K&H Pet Products Outdoor Unheated Kitty House!",
+      "image":"/images/product_2.jpg",
+      "price":120.00
+  },
+  {
+    "id":"price_1K5fBDAuc8Iz7jQHmLfWSOZQ",      
+      "title": "Fresh Breath Mint Stick Cat Chew Toy",
+      "description":"Attention to dental health in kittens, cats, and senior cats is an important part of their overall health.",
+      "image":"/images/product_3.jpg",
+      "price":10.00
+  }
+
+]
